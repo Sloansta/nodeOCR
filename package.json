@@ -1,0 +1,24 @@
+{
+  "name": "nodeocr",
+  "version": "1.0.0",
+  "description": "A simple command line application for capturing text data in an image and saving it to a text file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sloansta/nodeOCR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sloansta/nodeOCR/issues"
+  },
+  "homepage": "https://github.com/Sloansta/nodeOCR#readme",
+  "devDependencies": {
+    "tesseract.js": "^2.1.5"
+  }
+}
